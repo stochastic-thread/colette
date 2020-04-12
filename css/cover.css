@@ -210,6 +210,20 @@ main {
   justify-content: space-between;
 }
 
+#grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid-component img {
+  width: 320px; height: auto;
+  margin: 25px 25px 25px 25px;
+  border-color: #e84780;
+  border-style: solid;
+  border-radius: 7.5px;
+}
+
+
 .colette a {
   color: #e84780;
   font-family: Didot;
